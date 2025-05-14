@@ -56,7 +56,7 @@ Absence of personalized, region-specific recommendations
 Data Collection & Cleaning
 Collected agricultural datasets from Kaggle and government sources. Cleaned and preprocessed using standard scaling.
 
-Feature Selection & Modeling
+Feature Selection & Modeling!
 Key features: N, P, K, temperature, humidity, pH, rainfall. Used Random Forest for both crop and fertilizer classification.
 
 Model Evaluation
@@ -74,6 +74,11 @@ Interface: Clean, tab-based UI built with Streamlit
 
 🔗 Hosted Live: Click here to try the app
 
+output
+[market](https://github.com/user-attachments/assets/be251c8e-d8b8-4f0c-b31a-64557c10bb45)
+![income](https://github.com/user-attachments/assets/1fb1b273-510d-4813-8bb6-b7d17dffe39e)
+![fertilizer](https://github.com/user-attachments/assets/2b79b344-d3a7-4806-ad87-7386a7a02c38)
+![crop](https://github.com/user-attachments/assets/1945eb68-caf7-49cd-a567-5332072f0134)
 
 📌 Conclusion
 This project bridges the gap between traditional agriculture and modern technology by offering a smart, scalable, and personalized recommendation system. It ensures:
